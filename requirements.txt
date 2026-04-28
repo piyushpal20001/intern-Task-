@@ -1,2 +1,4 @@
-instaloader>=4.10
-pandas>=1.5
+instaloader
+pandas
+flask
+gunicorn
